@@ -6,6 +6,7 @@ public class Taller_practicogihub {
             
         
         System.out.println("hola ");
+        system.out.println("version 2");
     }
     
 }
